@@ -147,7 +147,6 @@ npm start
 | `DELETE` | `/api/notes/trash/:id` | Permanently delete single note |
 | `DELETE` | `/api/notes/trash/empty` | Permanently empty trash bin |
 
----
 
 ## 🔑 Testing JWT with cURL / Postman
 
